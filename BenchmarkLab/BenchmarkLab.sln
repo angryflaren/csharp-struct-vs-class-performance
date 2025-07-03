@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkLab", "BenchmarkLab.csproj", "{006375C3-92D8-4251-A5F4-40B46061FCD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Copying the structure and class", "..\Copying the structure and class\Copying the structure and class.csproj", "{AEA6509F-E379-4826-B86D-9825E89F0B1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transfer of structure and class", "..\Transfer of structure and class\Transfer of structure and class.csproj", "{1936CB58-BA16-4B45-A973-64BF4747350A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparison of structure and class speed", "..\Comparison of structure and class speed\Comparison of structure and class speed.csproj", "{8E21E19A-9EDB-4F9D-8B4D-6CAF33BA121E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{006375C3-92D8-4251-A5F4-40B46061FCD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006375C3-92D8-4251-A5F4-40B46061FCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006375C3-92D8-4251-A5F4-40B46061FCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006375C3-92D8-4251-A5F4-40B46061FCD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA6509F-E379-4826-B86D-9825E89F0B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA6509F-E379-4826-B86D-9825E89F0B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA6509F-E379-4826-B86D-9825E89F0B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA6509F-E379-4826-B86D-9825E89F0B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1936CB58-BA16-4B45-A973-64BF4747350A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1936CB58-BA16-4B45-A973-64BF4747350A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1936CB58-BA16-4B45-A973-64BF4747350A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1936CB58-BA16-4B45-A973-64BF4747350A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E21E19A-9EDB-4F9D-8B4D-6CAF33BA121E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E21E19A-9EDB-4F9D-8B4D-6CAF33BA121E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E21E19A-9EDB-4F9D-8B4D-6CAF33BA121E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E21E19A-9EDB-4F9D-8B4D-6CAF33BA121E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
